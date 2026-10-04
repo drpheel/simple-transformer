@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.DS_Store
+
+# trained weights (large / regenerable)
+checkpoints/
+*.pt
+*.pth
